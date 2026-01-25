@@ -47,7 +47,37 @@ OS:
 Roles Installed:
     -Active Directory Domain Services
     -DNS Server
+Domain:
+    -lab.local
+Networking:
+    -Primary NIC 192.168.1.11 (Internal Domain)
+    -Secondary NIC: 10.0.3.15 (NAT Adapter)
+    -192.168.1.240 (SIEM Subnet)
 
+Responsibilities:
+-Serve as file share for NFTS permission testing
+-Provide redundancy for authentication, DNS, and GPO delivery
+-Replicate AD objects and DNS zones from DC01
+-Serve as a GUI-based management interface for AD
+-Act as a secondary log source for SIEM integration
+
+Management Tools
+
+Because DC02 has a full GUI, it includes all native Windows Server management consoles, including:
+      -Active Directory Users and Computers
+      -DNS Manager
+      -Group Policy Management Console
+      -Event Viewer
+      -Server Manager     
+      -Powershell
+
+All of these tools were used to:
+      -Create new users, groups, and OUs
+      -Configure and link GPOs
+      -Verify replication and DNS 
+      -Monitor security logs and SEM agent activity
+
+    
 
 
 
