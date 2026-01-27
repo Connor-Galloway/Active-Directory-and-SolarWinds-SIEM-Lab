@@ -1,0 +1,36 @@
+The following are powershell commands that I utilized to help with the creation of this home lab. 
+
+
+#DC01 - Domain Controller Promotion
+
+# Install AD DS role
+Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
+
+# Create Domain
+Install-ADDSForest `
+-DomainName "lab.local" `
+-DomainNetbiosName "LAB" `
+-InstallDNS
+
+#SIEM Integration for DC01
+
+Start-Process "\\DC02\ITShare\SolarWinds-SEM-2025.4-Agent-WindowsInstaller.exe"
+
+#Test Services for SolarWinds
+Get-Service | findstr /I "Contego"
+Get-Service | findstr /I "SolarWinds"
+
+#Test connection to SIEM
+Test-NetConnection 192.168.1.238 -Port 37890
+
+#Verification and Health
+
+#Show AD replication health
+repadmin /replsummary
+repadmin /showrepl
+
+#GPO Apply and Check
+gpupdate /force
+gpresult /r
+
+
