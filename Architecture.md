@@ -6,3 +6,5 @@ This homelab runs on a VirtualBox host and is segmented into three networks, eac
 <p align="center">
   <img <img src="AD-Setup-Diagram.png" width="600" />
 </p>
+
+<h2 align=center">Network Architecture </h2>
