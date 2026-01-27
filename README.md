@@ -7,7 +7,6 @@ This project is comprised of the following virtual machines within Oracle Virtua
 - Two Windows Server 2022 Domain Controllers
 - One domain-joined Windows 11 client
 - SolarWinds Security Event Manager
-- Virtualized networking
 
 This repository documents:
 
