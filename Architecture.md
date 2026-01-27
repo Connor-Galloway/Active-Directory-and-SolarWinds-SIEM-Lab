@@ -2,4 +2,4 @@ This homelab runs on a VirtualBox host and is segmented into three networks, eac
 
 ## Network Architecture
 
-![Architecture Diagram](ad-setup-diagram.png)
+![Architecture Diagram](AD-Setup-Diagram.png)
