@@ -4,5 +4,5 @@ This homelab runs on a VirtualBox host and is segmented into three networks, eac
 
 
 <p align="center">
-  <img src=AD-Setup-Diagram.png" width="600" />
+  <img <img src="https://raw.githubusercontent.com/Connor-Galloway/Homelab-Domain-AD-and-SolarWinds-SIEM-Project/main/AD-Setup-Diagram.png" width="600" />
 </p>
