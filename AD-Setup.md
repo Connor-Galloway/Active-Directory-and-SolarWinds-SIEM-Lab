@@ -12,9 +12,11 @@ Why server core? DC01 is intentionally designed to be deployed as a Windows Serv
 
 Configuration:
 OS: 
+
       -2022 Windows Server Core
       
 Roles: 
+
       -Active Directory Domain Services
       
       -DNS Server
@@ -26,10 +28,15 @@ Networking:
       -Secondary NIC (SIEM Subnet): 192.168.1.239
       
 Tools Used: 
+
       -Powershell
+      
       -sconfig
+      
       -RSAT (Allows for disaster recovery if DC02 goes down)
+      
 Responsibiliy:
+
       -Host main local domain (lab.local)
       -Hold all FSMO roles initially
       -Provide primary DNS services
