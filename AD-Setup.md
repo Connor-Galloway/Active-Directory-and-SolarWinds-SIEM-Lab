@@ -38,9 +38,13 @@ Tools Used:
 Responsibiliy:
 
       -Host main local domain (lab.local)
+      
       -Hold all FSMO roles initially
+      
       -Provide primary DNS services
+      
       -Act as primary Domain Controller
+      
 
 DC01 Main Interface (SConfig):
 
