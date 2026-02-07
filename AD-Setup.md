@@ -27,6 +27,7 @@ Responsibiliy:
       -Provide primary DNS services
       -Act as primary Domain Controller
 
+![DC01 IP Configuration](images/DC01/DC01 IPCONFIG.png)
 
 DC02 - Full GUI
 
