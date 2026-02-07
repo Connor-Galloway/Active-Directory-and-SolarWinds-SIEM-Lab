@@ -54,6 +54,10 @@ DC01 IP Configuration:
 
 ![DC01 IP Configuration](images/DC01/DC01%20IPCONFIG.png)
 
+FSMO Roles:
+
+![DC01 FSMO](images/DC01/FSMO%20Roles.png)
+
 
 
 DC02 - Full GUI
