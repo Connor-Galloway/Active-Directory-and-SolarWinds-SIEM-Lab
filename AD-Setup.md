@@ -50,6 +50,10 @@ DC01 Main Interface (SConfig):
 
 ![DC01 SConfig](images/DC01/SCONFIG.png)
 
+System Information:
+
+![DC01 SystemInfo](images/DC01/System%20Info.png)
+
 DC01 IP Configuration:
 
 ![DC01 IP Configuration](images/DC01/DC01%20IPCONFIG.png)
@@ -58,6 +62,9 @@ FSMO Roles:
 
 ![DC01 FSMO](images/DC01/FSMO%20Roles.png)
 
+Domain Controller Status:
+
+![DC01 DC Status](images/DC01/Domain%20Controller.png)
 
 
 DC02 - Full GUI
