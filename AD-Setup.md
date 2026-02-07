@@ -144,7 +144,9 @@ All of these tools were used to:
       
       -Monitor security logs and SEM agent activity
       
+DC02 Domain Information:
 
+![DC02 Domain](images/DC02/Shows%20lab.local%20Domain.png)
     
 
 
