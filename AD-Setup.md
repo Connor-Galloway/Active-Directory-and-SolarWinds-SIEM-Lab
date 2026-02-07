@@ -26,8 +26,8 @@ Responsibiliy:
       -Hold all FSMO roles initially
       -Provide primary DNS services
       -Act as primary Domain Controller
-
 DC01 IP Configuration
+
 ![DC01 IP Configuration](images/DC01/DC01%20IPCONFIG.png)
 
 DC02 - Full GUI
