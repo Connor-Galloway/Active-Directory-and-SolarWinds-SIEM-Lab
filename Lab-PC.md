@@ -22,5 +22,8 @@ This ipconfig screen shows all three IP addresses explained the in Archecture di
 ![IPCONFIG](images/Lab-PC/IPCONFIG%20for%20Lab-PC.png)
 
 
+Group Policy In Action: 
 
-[Video](images/Lab-PC/Recording%20of%20Group%20Policy.mp4)
+This video shows the group policy shown in the AD-Setup portion of this lab in action on the end user side. Darth Vader, an HR user, is logged into the machine in this example. The group policy is manually updated and automatically maps the HR shared drive.
+
+[Group Policy in Action](images/Lab-PC/Recording%20of%20Group%20Policy.mp4)
