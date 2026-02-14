@@ -31,7 +31,7 @@ Tools Used:
 
       -Powershell
       
-      -sconfig
+      -SConfig
       
       -RSAT (Allows for disaster recovery if DC02 goes down)
       
