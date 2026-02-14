@@ -27,3 +27,10 @@ Group Policy In Action:
 This video shows the group policy shown in the AD-Setup portion of this lab in action on the end user side. Darth Vader, an HR user, is logged into the machine in this example. The group policy is manually updated and automatically maps the HR shared drive.
 
 [Group Policy Video](images/Lab-PC/Recording%20of%20Group%20Policy.mp4)
+
+
+RBAC Under HR User: 
+
+This photo shows that the logged in HR user does not have access to the IT shared folder, demostrating successful RBAC in the domain environment. 
+
+![RBAC under HR](images/Lab-PC/RBAC%20Under%20HR&20User.png)
