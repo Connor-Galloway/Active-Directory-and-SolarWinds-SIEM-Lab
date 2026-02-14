@@ -169,7 +169,37 @@ Each folder has its own access control assigned to it via RBAC. Here is an examp
 
 ![RBAC for HR](images/DC02/RBAC%20for%20HR%20Write.png) ![RBAC HR Read](images/DC02/RBAC%20for%20HR%20Read.png)
 
-Each 
+Users inside the Administrators group have full control over the file share, as seen below: 
+
+![ADMIN RBAC](images/DC02/RBAC%20for%20Admins.png)
+
+RBAC is administered through security groups. Expanded below is the IT Administrator Group: 
+
+![IT Group](images/DC02/IT%20Admins%20Security%20Group.png)
+
+
+
+Group Policy 
+
+To showcase group policy in the environment, the following shows an automatic shared network drive mapping layout that allows for users under the HR Admin Groups to have their HR drive automatically map. 
+To see this group policy in action, I have provided the video under the Lab-PC portion of this repository. The following is configuration of this group policy on DC02: 
+
+Link to OU: 
+
+![OU Link](images/DC02/HR%20Group%20Policy.png)
+
+Policy Mapped:
+
+![Mapped Policy](images/DC02/Policy%20Mapped.png)
+
+Direct Targeting for Security Groups:
+
+![Direct Target](images/DC02/Applicants%20for%20GP.png)
+
+
+
+
+
 
 
 
