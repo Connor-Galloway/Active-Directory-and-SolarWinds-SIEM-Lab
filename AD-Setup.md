@@ -179,7 +179,7 @@ RBAC is administered through security groups. Expanded below is the IT Administr
 
 
 
-Group Policy 
+**Group Policy**
 
 To showcase group policy in the environment, the following shows an automatic shared network drive mapping layout that allows for users under the HR Admin Groups to have their HR drive automatically map. 
 To see this group policy in action, I have provided the video under the Lab-PC portion of this repository. The following is configuration of this group policy on DC02: 
