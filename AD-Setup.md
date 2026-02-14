@@ -165,9 +165,11 @@ The four folders within the file share system are shown in the photo below:
 
 ![File Share](images/DC02/FileShare%20on%20DC02.png)
 
-Each folder has its own access control assigned to it via RBAC, here is an example:
+Each folder has its own access control assigned to it via RBAC. Here is an example:
 
 ![RBAC for HR](images/DC02/RBAC%20for%20HR%20Write.png) ![RBAC HR Read](images/DC02/RBAC%20for%20HR%20Read.png)
+
+Each 
 
 
 
