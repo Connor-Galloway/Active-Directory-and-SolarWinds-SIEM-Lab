@@ -33,4 +33,4 @@ RBAC Under HR User:
 
 This photo shows that the logged in HR user does not have access to the IT shared folder, demostrating successful RBAC in the domain environment. 
 
-![RBAC under HR](images/Lab-PC/RBAC%20Under%20HR&20User.png)
+![RBAC under HR](images/Lab-PC/RBAC%20Under%20HR%20User.png)
