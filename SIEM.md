@@ -10,4 +10,4 @@ SEM Dashboard Overview:
 
 This photo shows the SolarWinds main dashboard. Customizable widgets display security events and information for easy access. 
 
-![SEM Dashboard](images/SolarWinds/%Main%20Dashboard.png)
+![SEM Dashboard](images/SolarWinds/Main%20Dashboard.png)
