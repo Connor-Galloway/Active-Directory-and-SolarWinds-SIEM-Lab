@@ -26,4 +26,4 @@ Group Policy In Action:
 
 This video shows the group policy shown in the AD-Setup portion of this lab in action on the end user side. Darth Vader, an HR user, is logged into the machine in this example. The group policy is manually updated and automatically maps the HR shared drive.
 
-[Group Policy in Action](images/Lab-PC/Recording%20of%20Group%20Policy.mp4)
+[Group Policy Video](images/Lab-PC/Recording%20of%20Group%20Policy.mp4)
