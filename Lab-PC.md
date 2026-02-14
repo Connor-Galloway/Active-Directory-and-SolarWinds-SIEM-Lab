@@ -17,7 +17,7 @@ Lab-PC Device Information:
 
 IP Configuration: 
 
-This ipconfig screen shows all three IP addresses explained the in the network diagram working simultaneously.
+This ipconfig screen shows all three IP addresses explained in the network diagram working simultaneously.
 
 ![IPCONFIG](images/Lab-PC/IPCONFIG%20for%20Lab-PC.png)
 
@@ -31,6 +31,6 @@ This video shows the group policy shown in the AD-Setup portion of this lab in a
 
 RBAC Under HR User: 
 
-This photo shows that the logged in HR user does not have access to the IT shared folder, demostrating successful RBAC in the domain environment. 
+This photo shows that the logged in HR user does not have access to the IT shared folder, demonstrating successful RBAC in the domain environment. 
 
 ![RBAC under HR](images/Lab-PC/RBAC%20Under%20HR%20User.png)
