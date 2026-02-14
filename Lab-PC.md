@@ -5,7 +5,7 @@ The third virtual machine in this AD homelab is a Windows 11 Virtual Client. Lab
 
 Windows Sign In Screen: 
 
-This photo indicates Lab-PC is connected to the domain with a user credential Luke Skywalker already cached.
+This photo indicates Lab-PC is connected to the domain with user "Luke Skywalker" already cached.
 
 ![Sign In](images/Lab-PC/Windows%20Sign%20In.png)
 
