@@ -75,13 +75,13 @@ server management.
 Why full GUI?
 DC02 is intentionally deployed as a Windows Server 2022 Desktop Experience to:
 
--Visual access to AD tools
+-Give visual access to AD tools
 
--Fallback management interface if RSAT fails
+-Provide fallback management interface if RSAT fails
 
 -Simulate real world environments with a mix of Core and GUI DCs
 
--Easier troubleshooting and management
+-Have easier troubleshooting and management
 
 
 Configuration:
