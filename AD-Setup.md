@@ -108,7 +108,7 @@ Networking:
 
 Responsibilities:
 
-      -Serve as file share for NFTS permission testing
+      -Serve as file share for NTFS permission testing
 
       -Provide redundancy for authentication, DNS, and GPO delivery
 
