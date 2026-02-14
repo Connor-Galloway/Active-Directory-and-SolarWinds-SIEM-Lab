@@ -46,7 +46,7 @@ Dedicated Incident Category:
 
 Rule Setup: 
 
-![Setup](images/SolarWinds/Rule%0Setup%20(Added%20Admin).png)
+![Setup](images/SolarWinds/Rule%20Setup%20(Added%20Admin).png)
 
 
 Custom Filter: 
