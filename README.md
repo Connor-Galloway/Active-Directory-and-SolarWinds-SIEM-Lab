@@ -5,7 +5,7 @@ This repository serves as both a learning resource and a professional showcase o
 
 This project is comprised of the following virtual machines within Oracle VirtualBox: 
 - Two Windows Server 2022 Domain Controllers
-- One domain-joined Windows 11 client
+- One domain joined Windows 11 client
 - SolarWinds Security Event Manager
 
 This repository documents:
