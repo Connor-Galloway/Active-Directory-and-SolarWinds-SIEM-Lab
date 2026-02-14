@@ -35,7 +35,7 @@ Tools Used:
       
       -RSAT (Allows for disaster recovery if DC02 goes down)
       
-Responsibiliy:
+Responsibilities:
 
       -Host main local domain (lab.local)
       
