@@ -17,7 +17,7 @@ Lab-PC Device Information:
 
 IP Configuration: 
 
-This ipconfig screen shows all three IP addresses explained the in Archecture diagram working simultaneously.
+This ipconfig screen shows all three IP addresses explained the in the network diagram working simultaneously.
 
 ![IPCONFIG](images/Lab-PC/IPCONFIG%20for%20Lab-PC.png)
 
