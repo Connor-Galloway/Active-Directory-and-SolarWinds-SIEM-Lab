@@ -152,5 +152,24 @@ Domain Replication with DC01:
 
 ![DC02 Replication](images/DC02/Confirm%20Replication%20w%20DC01.png)
 
+IP Configuration for DC02:
+
+![DC02 IPCONFIG](images/DC02/IPCONFIG.png)
+
+DNS Manager: 
+
+![DNS Manager](images/DC02/DNS%20Manager.png)
+
+
+The four folders within the file share system are shown in the photo below: 
+
+![File Share](images/DC02/FileShare%20on%20DC02.png)
+
+Each folder has its own access control assigned to it via RBAC, here is an example:
+
+![RBAC for HR](images/DC02/RBAC%20for%20HR%20Write.png) ![RBAC HR Read](images/DC02/RBAC%20for%20HR%20Read.png)
+
+
+
 
 
