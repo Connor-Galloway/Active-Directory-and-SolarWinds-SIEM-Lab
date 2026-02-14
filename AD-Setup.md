@@ -148,7 +148,9 @@ DC02 Domain Information:
 
 ![DC02 Domain](images/DC02/Shows%20lab.local%20Domain.png)
     
+Domain Replication with DC01:
 
+![DC02 Replication](images/DC02/Confirm%20Replication%20w%20DC01.png)
 
 
 
