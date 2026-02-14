@@ -29,7 +29,7 @@ Networking:
       
 Tools Used: 
 
-      -Powershell
+      -PowerShell
       
       -SConfig
       
@@ -132,7 +132,7 @@ Because DC02 has a full GUI, it includes all native Windows Server management co
       
       -Server Manager     
       
-      -Powershell
+      -PowerShell
 
 All of these tools were used to:
 
