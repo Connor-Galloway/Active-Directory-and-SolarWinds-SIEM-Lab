@@ -69,7 +69,7 @@ Domain Controller Status:
 
 **DC02 - Full GUI**
 
-DC02 is designed to be a redundant Domain Controller and primary FileShare for the network. It provides fault tolerance, replication, and a GUI-based interface for
+DC02 is designed to be a redundant Domain Controller and primary file share for the network. It provides fault tolerance, replication, and a GUI-based interface for
 server management.
 
 Why full GUI?
