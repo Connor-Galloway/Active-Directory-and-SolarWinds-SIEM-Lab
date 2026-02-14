@@ -1,4 +1,4 @@
-Active Directory Homelab and Security Monitoring Environment
+**Active Directory Homelab and Security Monitoring Environment**
 
 This is a hands‑on, enterprise‑style homelab designed to simulate a real Windows domain environment with centralized logging, security monitoring, and SIEM integration. This project documents the full build: domain controllers, client systems, networking, and the deployment of SolarWinds Security Event Manager (SEM) for log ingestion and detection engineering.
 This repository serves as both a learning resource and a professional showcase of my approach to designing, deploying, and securing Windows infrastructure.
