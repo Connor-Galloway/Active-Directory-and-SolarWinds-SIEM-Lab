@@ -1,6 +1,6 @@
 When designing this homelab environment, I decided to deploy two Windows Server 2022 domain controllers within VirtualBox to mirror best practices used in a real enterprise environment. Having multiple domain controllers provides high availability, replication, load distribution, and disaster recovery. 
 
-DC01 - Primary Domain Controller (Server Core)
+**DC01 - Primary Domain Controller (Server Core)**
 
 Why server core? DC01 is intentionally designed to be deployed as a Windows Server 2022 server core because it:
 
@@ -67,7 +67,7 @@ Domain Controller Status:
 ![DC01 DC Status](images/DC01/Domain%20Controller.png)
 
 
-DC02 - Full GUI
+**DC02 - Full GUI**
 
 DC02 is designed to be a redundant Domain Controller and primary FileShare for the network. It provides fault tolerance, replication, and a GUI-based interface for
 server management.
