@@ -11,3 +11,15 @@ SEM Dashboard Overview:
 This photo shows the SolarWinds main dashboard. Customizable widgets display security events and information for easy access. 
 
 ![SEM Dashboard](images/SolarWinds/Main%20Dashboard.png)
+
+
+Network Nodes:
+
+![Nodes](images/SolarWinds/Nodes.png)
+
+
+Normalized Event (Failed Logon): 
+
+This photo shows a normalized event broadcasted to the Live Events panel. I triggered this event by doing a few failed login attempts for my administrator account on DC01. 
+
+![Failed Login](images/SolarWinds/Normalized%20Event%20(Failed%20Logon).png)
