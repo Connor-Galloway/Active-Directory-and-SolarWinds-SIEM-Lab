@@ -84,7 +84,7 @@ DC02 is intentionally deployed as a Windows Server 2022 Desktop Experience to:
 -Have easier troubleshooting and management
 
 
-Configuration:
+
 OS: 
 
     -Windows Server 2022 Desktop Experience
