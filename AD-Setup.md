@@ -10,7 +10,7 @@ Why server core? DC01 is intentionally designed to be deployed as a Windows Serv
 
 -Simpler patching requirements
 
-Configuration
+
 OS: 
 
       -2022 Windows Server Core
